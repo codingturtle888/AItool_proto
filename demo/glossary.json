@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "language": "ko",
+  "target_level": "TOPIK 4-5",
+  "glossary": [
+    { "term": "유래한", "simple": "처음 생긴", "definition": "어떤 말이나 일이 처음 시작된" },
+    { "term": "유래하다", "simple": "처음 생기다", "definition": "어떤 말이나 일이 처음 시작되다" },
+    { "term": "역경", "simple": "어려움", "definition": "힘들고 고통스러운 상황" },
+    { "term": "통일되지", "simple": "하나로 정해지지", "definition": "여러 의견이 같지" },
+    { "term": "스트레스원", "simple": "스트레스의 원인", "definition": "스트레스를 생기게 하는 이유" },
+    { "term": "범주", "simple": "종류", "definition": "비슷한 것들을 묶은 그룹" },
+    { "term": "분류", "simple": "나눔", "definition": "기준에 따라 나눔" },
+    { "term": "격변적 사건", "simple": "큰 사건", "definition": "갑자기 많은 사람에게 영향을 주는 큰 사건" },
+    { "term": "일시에", "simple": "한 번에", "definition": "같은 시간에" },
+    { "term": "장기적인", "simple": "오래 가는", "definition": "긴 시간 동안 계속되는" },
+    { "term": "공유하며", "simple": "함께 나누며", "definition": "다른 사람과 같이 이야기하며" },
+    { "term": "격려", "simple": "힘을 주는 말", "definition": "용기를 주는 말" },
+    { "term": "만성적인", "simple": "계속되는", "definition": "오랫동안 반복되는" },
+    { "term": "무의식적인", "simple": "모르는 사이에", "definition": "스스로 알지 못한 상태에서" },
+    { "term": "방어 기제", "simple": "마음을 지키는 방법", "definition": "마음을 보호하려는 심리적 방법" }
+  ]
+}
