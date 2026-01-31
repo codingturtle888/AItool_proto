@@ -6,7 +6,12 @@ textarea { width: 100%; padding: 12px; font-size: 14px; }
 button { padding: 8px 12px; cursor: pointer; }
 .viewer { max-width: 900px; margin-top: 20px; padding: 12px; border: 1px solid #ddd; border-radius: 10px; }
 
-.tooltip-term { text-decoration: underline dotted; cursor: help; position: relative; }
+.tooltip-term { 
+  text-decoration: underline dotted; 
+  font-weight: 700;
+  cursor: help; 
+  position: relative; 
+}
 .tooltip-box {
   position: absolute; z-index: 9999;
   left: 0; top: 1.8em;
