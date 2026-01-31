@@ -24,3 +24,12 @@ button { padding: 8px 12px; cursor: pointer; }
 .tooltip-term:hover .tooltip-box { display: block; }
 .tooltip-simple { font-weight: 700; margin-bottom: 6px; }
 .tooltip-def { opacity: .9; font-size: 13px; }
+/* Toggle UI */
+.toggle { display: inline-flex; align-items: center; gap: 6px; margin-left: 8px; user-select: none; }
+.toggle input { transform: translateY(1px); }
+
+/* Tooltip OFF mode: hide tooltip box + make it feel non-interactive */
+.tooltip-off .tooltip-box { display: none !important; }
+.tooltip-off .tooltip-term { cursor: default; } /* 밑줄/볼드 유지하고 싶으면 이 줄만 */
+/* Remove highlighting when tooltip OFF */
+.tooltip-off .tooltip-term { cursor: default; text-decoration: none; font-weight: 400; }
