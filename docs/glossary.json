@@ -9,7 +9,7 @@
     { "term": "통일되지", "simple": "하나로 정해지지", "definition": "여러 의견이 같지" },
     { "term": "스트레스원", "simple": "스트레스의 원인", "definition": "스트레스를 생기게 하는 이유" },
     { "term": "범주", "simple": "종류", "definition": "비슷한 것들을 묶은 그룹" },
-    { "term": "분류", "simple": "나눔", "definition": "기준에 따라 나눔" },
+    { "term": "분류", "simple": "나누다", "definition": "기준에 따라 나누다" },
     { "term": "격변적 사건", "simple": "큰 사건", "definition": "갑자기 많은 사람에게 영향을 주는 큰 사건" },
     { "term": "일시에", "simple": "한 번에", "definition": "같은 시간에" },
     { "term": "장기적인", "simple": "오래 가는", "definition": "긴 시간 동안 계속되는" },
@@ -17,6 +17,16 @@
     { "term": "격려", "simple": "힘을 주는 말", "definition": "용기를 주는 말" },
     { "term": "만성적인", "simple": "계속되는", "definition": "오랫동안 반복되는" },
     { "term": "무의식적인", "simple": "모르는 사이에", "definition": "스스로 알지 못한 상태에서" },
-    { "term": "방어 기제", "simple": "마음을 지키는 방법", "definition": "마음을 보호하려는 심리적 방법" }
+    { "term": "방어 기제", "simple": "마음을 지키는 방법", "definition": "마음을 보호하려는 심리적 방법" },
+    { "term": "상실", "simple": "잃어버림", "definition": "사람이나 물건을 잃는 것" },
+    { "term": "전형적으로", "simple": "보통", "definition": "일반적으로 많이 나타나는 방식으로" },
+    { "term": "사적인", "simple": "개인적인", "definition": "자기자신이나 가족과 관련된" },
+    { "term": "장기적", "simple": "오래 가는", "definition": "긴 시간 동안 계속되는" },
+    { "term": "자체적으로", "simple": "스스로", "definition": "다른 도움 없이 자기 힘으로" },
+    { "term": "취할 수 있는", "simple": "할 수 있는", "definition": "선택해서 할 수 있는" },
+    { "term": "대처", "simple": "대응", "definition": "문제나 상황에 맞서 행동함" },
+    { "term": "예컨대", "simple": "예를 들어", "definition": "설명을 돕기 위한 실제 사례로" },
+    { "term": "강도", "simple": "정도", "definition": "강하거나 약한 수준" },
+    { "term": "직면했을 때", "simple": "바로 마주했을 때", "definition": "문제나 상황을 피하지 않고 만났을 때" }
   ]
 }
