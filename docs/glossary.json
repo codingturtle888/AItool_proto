@@ -18,9 +18,10 @@
     { "term": "만성적인", "simple": "계속되는", "definition": "오랫동안 반복되는" },
     { "term": "무의식적인", "simple": "모르는 사이에", "definition": "스스로 알지 못한 상태에서" },
     { "term": "방어 기제", "simple": "마음을 지키는 방법", "definition": "마음을 보호하려는 심리적 방법" },
+    
     { "term": "상실", "simple": "잃어버림", "definition": "사람이나 물건을 잃는 것" },
     { "term": "전형적으로", "simple": "보통", "definition": "일반적으로 많이 나타나는 방식으로" },
-    { "term": "사적인", "simple": "개인적인", "definition": "자기자신이나 가족과 관련된" },
+    { "term": "사적", "simple": "개인적", "definition": "자기자신이나 가족과 관련된" },
     { "term": "장기적", "simple": "오래 가는", "definition": "긴 시간 동안 계속되는" },
     { "term": "자체적으로", "simple": "스스로", "definition": "다른 도움 없이 자기 힘으로" },
     { "term": "취할 수 있는", "simple": "할 수 있는", "definition": "선택해서 할 수 있는" },
